@@ -14,7 +14,7 @@ A empresa Olist Store contou com 1 ano e meio de crescente nas vendas, faturamen
 
 Neste contexto, o setor de Vendas solicita análise da área de Dados, sobre as possíveis ações a serem tomadas para retomada do crescimento da empresa. Os pontos fortes e os fracos estarão em foco desta análise, uma vez que é ideal consolidar o potencial da empresa e também solucionar os quesitos de melhorias.
 
-Sendo assim, encontra-se disponível os insights para realização de consultas (queries) no dataset da empresa, bem como visualização de dados em Power BI, finalizando com a apresentação aos Gestores da empresa com aplicação de conceitos de storytelling.
+Sendo assim, encontra-se disponível os insights para realização de consultas (queries) no dataset da empresa, bem como visualização de dados em Power BI, trabalhando em segundo plano a Power Query, Linguagem DAX e Modelo Star Schema. E por último, conclui-se o projeto com  apresentação aos Gestores da empresa com aplicação de conceitos de storytelling.
 
 ## Agradecimentos
 
